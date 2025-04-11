@@ -1,2 +1,2 @@
-# book_management_js_project
-collaborated with scovia akello
+# book_management_project
+project done by charity and scovia
